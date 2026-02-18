@@ -15,7 +15,7 @@ username: aqs345-coder
 # Profile information displayed in the galaxy header
 profile:
   name: "Aqsuel Freire"
-  tagline: "Desenvolvidor Full Stack | Analista de Dados"
+  tagline: "Desenvolvedor Full Stack | Analista de Dados"
   company: " "
   location: "Assú, RN"
   bio: |
@@ -45,6 +45,7 @@ galaxy_arms:
       - "Python"
       - "Node.js"
       - "PostgreSQL"
+      - "Java"
   - name: "DevOps"
     color: "axon_amber"
     items:
