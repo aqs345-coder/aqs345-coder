@@ -59,12 +59,12 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "aqs345-coder/sistema_controle_industrial"
+  - repo: "aqs345-coder/site_pessoal_work"
     arm: 0
-    description: "Sistema de controle de matérias primas em uma indústria."
+    description: "Site pessoal moderno com Next.js, React e Framer Motion."
   - repo: "aqs345-coder/meu_bot_telegram"
     arm: 1
-    description: "Bot de Telegram avançado projetado para gerenciar o ciclo de vida completo de registros de estágio."
+    description: "Automação Python para gestão de logs e arquivos via Telegram API."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
