@@ -1,9 +1,3 @@
-<!-- Galaxy Profile README Template
-     Customize this file with your own info, then rename it to README.md
-     in your GitHub profile repo (github.com/YOUR_USERNAME/YOUR_USERNAME).
-     The SVG paths below point to assets/generated/ which are auto-generated
-     by the GitHub Actions workflow or by running: python -m generator.main -->
-
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
@@ -28,24 +22,39 @@
 
 <br/>
 
+<div align="center">
 <details>
-<summary><strong>More about me</strong></summary>
+<summary><strong>🚀 Decodificando o Perfil (Clique para expandir)</strong></summary>
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+> *"Transformo dados e linhas de código em soluções digitais robustas."*
 
-**Currently at** Stellar Labs — San Francisco, CA
+Olá! Sou **Aqsuel Freire**, desenvolvedor **Full Stack** e entusiasta de **Data Science**.
+Combino a lógica poderosa do **Python** com a interatividade moderna do **React/Next.js** para criar aplicações web de alta performance.
+
+🔭 **Atualmente:**
+- 🎓 Estudante de **Ciência e Tecnologia na UFERSA** (Mossoró/RN).
+- 💻 Focado em automação, análise de dados e desenvolvimento web moderno.
+- ⚙️ Criando soluções freelancers e bots de automação (Telegram/Web Scraping).
+
+📍 **Base:** Assú - RN, Brasil
+
 </details>
+</div>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:nyx@stellarlabs.dev">
-    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  <a href="https://aqsueldev.work">
+    <img src="https://img.shields.io/badge/Portfólio-Web-00d4ff?style=for-the-badge&logo=firefoxbrowser&logoColor=080c14" alt="Website"/>
   </a>
-  <a href="https://www.linkedin.com/in/nyxorion/">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  
+  <a href="https://www.linkedin.com/in/aqsuel-freire-3237b13a4">
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:freireaqsuelcomercial@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
