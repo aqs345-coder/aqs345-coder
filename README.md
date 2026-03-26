@@ -36,7 +36,7 @@ Combino a lógica poderosa do **Python** com a interatividade moderna do **React
 🔭 **Atualmente:**
 - 🎓 Estudante de **Ciência e Tecnologia na UFERSA** (Mossoró/RN).
 - 💻 Focado em automação, análise de dados e desenvolvimento web moderno.
-- ⚙️ Criando soluções freelancers e bots de automação (Telegram/Web Scraping).
+- ⚙️ Criando soluções com impactos reais.
 
 📍 **Base:** Assú - RN, Brasil
 
