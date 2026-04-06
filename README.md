@@ -23,7 +23,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aqs345-coder/aqs345-coder/output/pacman-contribution-graph.svg" width="850" alt="Pac-Man Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqs345-coder/aqs345-coder/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqs345-coder/aqs345-coder/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/aqs345-coder/aqs345-coder/output/pacman-contribution-graph-dark.svg" width="850">
+  </picture>
 </div>
 
 <br/>
