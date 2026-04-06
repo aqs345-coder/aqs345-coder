@@ -23,6 +23,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO_DO_GITHUB/SEU_USUARIO_DO_GITHUB/output/pacman-contribution-graph.svg" width="850" alt="Pac-Man Contribution Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
 <details>
 <summary><strong>🚀 Decodificando o Perfil (Clique para expandir)</strong></summary>
 
@@ -33,10 +39,12 @@
 Olá! Sou **Aqsuel Freire**, desenvolvedor **Full Stack** e entusiasta de **Data Science**.
 Combino a lógica poderosa do **Python** com a interatividade moderna do **React/Next.js** para criar aplicações web de alta performance.
 
-🔭 **Atualmente:**
-- 🎓 Estudante de **Ciência e Tecnologia na UFERSA** (Mossoró/RN).
-- 💻 Focado em automação, análise de dados e desenvolvimento web moderno.
-- ⚙️ Criando soluções com impactos reais.
+🔭 **Status da Missão:**
+- 🎓 Graduando em **Ciência e Tecnologia na UFERSA** (Previsão: Dezembro/2026).
+- 📜 Especializações concluídas: **Jornada Python** (Hashtag Treinamentos) e **Imersão em Análise de Dados** (XPeriun).
+- 💻 Em desenvolvimento: Criando um **bot de WhatsApp para gestão autônoma de tarefas** e aprimorando a arquitetura deste portfólio.
+- 🌍 Idiomas: Português (Nativo), Inglês (Avançado) e Russo (Básico).
+- ⚙️ Foco em automação, extração de insights a partir de dados e desenvolvimento moderno com impactos reais.
 
 📍 **Base:** Assú - RN, Brasil
 
