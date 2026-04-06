@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aqs345-coder/output/pacman-contribution-graph.svg" width="850" alt="Pac-Man Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/aqs345-coder/aqs345-coder/output/pacman-contribution-graph.svg" width="850" alt="Pac-Man Contribution Graph"/>
 </div>
 
 <br/>
